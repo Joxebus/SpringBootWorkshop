@@ -1,0 +1,13 @@
+# Código compilado #
+*.class
+
+# Eclipse #
+# .classpath
+# .project
+# .settings
+
+# IntelliJ IDEA #
+*.iml
+*.ipr
+*.iws
+.idea
