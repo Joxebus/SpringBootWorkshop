@@ -1,10 +1,11 @@
 # Código compilado #
+target
 *.class
 
 # Eclipse #
-# .classpath
-# .project
-# .settings
+.classpath
+.project
+.settings
 
 # IntelliJ IDEA #
 *.iml
